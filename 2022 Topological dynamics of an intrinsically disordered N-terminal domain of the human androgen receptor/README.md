@@ -1,6 +1,6 @@
-#Supplementary Data
+# Supplementary Data
 
-##Topological dynamics of an intrinsically disordered N-terminal domain of the human androgen receptor
+## Topological dynamics of an intrinsically disordered N-terminal domain of the human androgen receptor
 
 **Summary**
 Human androgen receptor contains a large N-terminal domain (AR-NTD) that is highly dynamic and this poses a major challenge for experimental and computational 
@@ -15,6 +15,7 @@ thereby regulating the accessibility of its DNA binding site. Our approach allow
 revealing the structural mechanisms of action of AR inhibitor EPI-001, and paving the way for other drug delivery applications.
 
 **Description of the supplemental data**
+
 File name: 
 FL_AR_minimized.pdb
 FL_AR_minimized.psf
