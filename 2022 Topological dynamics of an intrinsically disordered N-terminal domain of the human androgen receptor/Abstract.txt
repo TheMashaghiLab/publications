@@ -1,3 +1,5 @@
+If you use this structure, please cite: Vahid Sheikhhassani, Barbara Scalvini, Julian Ng, Laurens W.H.J. Heling, Yosri Ayache, Tom M.J. Evers, Eva Estébanez-Perpiñá, Iain J. McEwan, Alireza Mashaghi,Topological dynamics of an intrinsically disordered N-terminal domain of the human androgen receptor. Protein Science (2022)
+
 Human androgen receptor contains a large N-terminal domain (AR-NTD) that is highly dynamic and this poses a major challenge for experimental and computational 
 analysis to decipher its conformation. Misfolding of the AR-NTD is implicated in prostate cancer and Kennedy´s disease, yet our knowledge of its structure is 
 limited to primary sequence information of the chain and a few functionally important secondary structure motifs. Here, we employed an innovative combination 
