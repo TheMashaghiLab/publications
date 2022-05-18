@@ -15,10 +15,9 @@ FL_AR_minimized.psf
 
 **File description:**
 
-Full length AR structure constructed based on the NTD model reported in Sheikhhassani et al Protein Science (2022) (See Figure 6)). In order to construct it, full
-length AR structure obtained from AlphaFold and after cleaving the NTD domain (residues 1 to 538) aligned to the NTD-LBD complex (See Figure XXX in the article). 
-Full length construct was prepared in PDB and PSF formats. A PSF file, also called a protein structure file, contains all of the molecule-specific information needed
-to apply a desired force field to the AR molecule for further analysis. 
+Full length AR structure constructed based on the NTD model reported in Sheikhhassani et al Protein Science (2022) (See Figure 6). In order to construct it, full
+length AR structure obtained from AlphaFold and after cleaving the NTD domain (residues 1 to 538) aligned to the NTD-LBD complex (See Figure S21 in the article). 
+Full length construct was prepared in PDB and PSF formats. A PSF file, also called a protein structure file, contains all of the molecule-specific information needed to apply a desired force field to the AR molecule for further analysis. 
 
 **Users are requested to cite the article:**
 
