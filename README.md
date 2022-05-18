@@ -1,5 +1,5 @@
 # publications
-Public repository containing open data of Alireza Mashaghi Lab
+Public repository containing open data of Alireza Mashaghi's Lab
 
 Data deposited:
 
