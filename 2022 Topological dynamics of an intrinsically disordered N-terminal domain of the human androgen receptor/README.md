@@ -10,8 +10,7 @@ Human androgen receptor contains a large N-terminal domain (AR-NTD) that is high
 
 **File name:** 
 
-FL_AR_minimized.pdb
-
+FL_AR_minimized.pdb<br/>
 FL_AR_minimized.psf
 
 **File description:**
